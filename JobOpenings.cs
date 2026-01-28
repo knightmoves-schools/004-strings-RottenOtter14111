@@ -8,6 +8,6 @@ public class JobOpenings
 
     public string PrintOpening(){
         //Add your code here
-        return FirstName + " Hi " + JobTitle + " Idk " + City;
+        return FirstName + " - " + JobTitle + " - " + City + "\r\n";
     }
 }
